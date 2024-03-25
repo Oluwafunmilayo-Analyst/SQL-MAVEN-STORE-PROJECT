@@ -1,9 +1,12 @@
 # MAVEN-STORE-PROJECT WITH ANALYSIS SQL
-Sales and inventory data analysis for a fictitious share of toy store in Mexico.
-. 
+Sales and inventory data analysis for a fictitious chain of toy store in Mexico called Maven Toys, including information about products, store, daily store transaction, and current inventory levels at each location.
+
+#### QUESTIONS:
 1. Which product category drive the biggest profits? is it the same across the store locations?
 2. How much money is tied up in inventory at the toy stores? How long will it last?
- 3. Are sales being lost with out-of-stock products at certain location? 
+ 3. Are sales being lost with out-of-stock products at certain location?
+
+
 ```SQL
 select
 	p.product_id,
