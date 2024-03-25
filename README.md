@@ -1,5 +1,9 @@
 # MAVEN-STORE-PROJECT WITH ANALYSIS SQL
 Sales and inventory data analysis for a fictitious share of toy store in Mexico.
+. 
+1. Which product category drive the biggest profits? is it the same across the store locations?
+2. How much money is tied up in inventory at the toy stores? How long will it last?
+ 3. Are sales being lost with out-of-stock products at certain location? 
 ```SQL
 select
 	p.product_id,
