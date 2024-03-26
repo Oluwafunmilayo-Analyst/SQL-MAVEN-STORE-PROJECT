@@ -86,3 +86,6 @@ left join
 	on s.store_id= i.store_id
 	;
 ```
+Reference:
+1. Utiva
+2. web3
